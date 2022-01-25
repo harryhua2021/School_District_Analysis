@@ -8,11 +8,19 @@ Based on that assumption, the school board requested that the 9th grade data be 
 #  Results
         ## How is the district summary affected?
         Original:
+        
+        
+        ![alt text](https://github.com/harryhua2021/School_District_Analysis/blob/15711a40c3956a8bdccd48e1deabd6aa7133fc26/Resources/district_summary_original.png)
+        
 
            The testing data of all 9th graders at Thomas High School was adjusted to NaNs (null data). After the adjustment, the analysis recalculated the percentages of students passing math, passing reading, and the overall passing. 
            The total count of students did not change because it was counted by student-ids, which was not affected by the null data.
 
         Adjusted: 
+        
+        
+        ![alt text](https://github.com/harryhua2021/School_District_Analysis/blob/15711a40c3956a8bdccd48e1deabd6aa7133fc26/Resources/district_summary_adjusted.png)
+        
 
            With the removal of all 9th graders testing scores, the overall passing rate of math and reading in THS visibly declined, although the change is less than 1%.
            
