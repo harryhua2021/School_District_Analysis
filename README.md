@@ -26,9 +26,20 @@ Based on that assumption, the school board requested that the 9th grade data be 
            
 
         ## How is the school summary affected?
+        
+        
            Original:
-
+           
+           
+           ![alt text](https://github.com/harryhua2021/School_District_Analysis/blob/main/Resources/school_summary_original.png?raw=true)
+           
+           
            Adjusted:
+           
+           
+           ![alt text](https://github.com/harryhua2021/School_District_Analysis/blob/main/Resources/school_summary_adjusted.png)
+           
+          
            
            In the original analysis, Thomas High School enjoyed close to 91% of overall passing rate, which has sparked concerns from the school board suspecting a possiblity of academic dishonesty. After excluding all 9th grader testing scores from the calculation, the newly adjusted overall passing rate for 10 - 12th graders was significantly lower compare to the original analysis.
 
