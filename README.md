@@ -10,7 +10,7 @@ Based on that assumption, the school board requested that the 9th grade data be 
         Original:
         
         
-        ![alt text](https://github.com/harryhua2021/School_District_Analysis/blob/c1b820bf62817abc078a637e0daff1f4649409d9/Resources/district_summary_original.png)
+        ![Alt text](https://github.com/harryhua2021/School_District_Analysis/blob/main/Resources/district_summary_original.png)
         
 
            The testing data of all 9th graders at Thomas High School was adjusted to NaNs (null data). After the adjustment, the analysis recalculated the percentages of students passing math, passing reading, and the overall passing. 
