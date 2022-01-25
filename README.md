@@ -63,7 +63,9 @@ Based on that assumption, the school board requested that the 9th grade data be 
             The impact seems to be minimal.
 
 
-#  Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+#  Summary
+
+##  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 The Math passing rate of THS has declined.
 
